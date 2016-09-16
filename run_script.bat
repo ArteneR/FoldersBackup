@@ -3,8 +3,6 @@
 
 @echo off
 
-py hell.py
-
 timeout 10
 
-Start ""  "D:\Programe\Winamp\winamp.exe"
+py backup_folders.py
