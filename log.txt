@@ -16,3 +16,39 @@ Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Prog
 Copied successfully!
 Operation finished successfully!
 
+
+[2016-09-17 00:47]
+Its backup time!!!
+Copying files from 'D:/Test' folder to 'D:/BackupToStuff/D-Test_2016-09-17' folder...
+Copied successfully!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-17' folder...
+Copied successfully!
+Operation finished successfully!
+
+
+[2016-09-17 00:50]
+Its backup time!!!
+Copying files from 'D:/Test' folder to 'D:/BackupToStuff/D-Test_2016-09-17' folder...
+Copied successfully!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-17' folder...
+Copied successfully!
+Operation finished successfully!
+
+
+[2016-09-17 00:52]
+Its backup time!!!
+Copying files from 'D:/Test' folder to 'D:/BackupToStuff/D-Test_2016-09-17' folder...
+Copied successfully!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-17' folder...
+Copied successfully!
+Operation finished successfully!
+
+
+[2016-09-17 00:54]
+Its backup time!!!
+Copying files from 'D:/Test' folder to 'D:/BackupToStuff/D-Test_2016-09-17' folder...
+Copied successfully!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-17' folder...
+Copied successfully!
+Operation finished successfully!
+
