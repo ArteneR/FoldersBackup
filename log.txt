@@ -1,0 +1,18 @@
+
+[2016-09-17 00:32]
+Its backup time!!!
+Copying files from 'D:/Test' folder to 'D:/BackupToStuff/D-Test_2016-09-17' folder...
+Copied successfully!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-17' folder...
+Copied successfully!
+Operation finished successfully!
+
+
+[2016-09-17 00:33]
+Its backup time!!!
+Copying files from 'D:/Test' folder to 'D:/BackupToStuff/D-Test_2016-09-17' folder...
+Copied successfully!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-17' folder...
+Copied successfully!
+Operation finished successfully!
+
