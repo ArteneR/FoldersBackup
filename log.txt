@@ -52,3 +52,18 @@ Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Prog
 Copied successfully!
 Operation finished successfully!
 
+
+[2016-09-17 11:40]
+No backup is going to happen today :(. Next backup should take place after 2 day/s
+Operation finished successfully!
+
+
+[2016-09-17 11:44]
+No backup is going to happen today :(. Next backup should take place after 2 day/s
+Operation finished successfully!
+
+
+[2016-09-17 11:47]
+No backup is going to happen today :(. Next backup should take place after 2 day/s
+Operation finished successfully!
+
