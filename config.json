@@ -1,1 +1,1 @@
-{"store_backups_folder": "D:/BackupToStuff/", "last_backup": "2016-09-14", "folders": ["D:/MyCode/", "D:/Programe/XAMPP/htdocs/"], "history_limit": 3, "backup_interval": 5}
+{"history_limit": 3, "folders": ["D:/Programe/XAMPP/htdocs/", "D:/MyCode/"], "backup_interval": 5, "store_backups_folder": "D:/BackupToStuff/", "last_backup": "2016-09-20"}

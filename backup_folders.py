@@ -75,7 +75,7 @@ def read_config_file():
         current_time = datetime.datetime.now().strftime("%H:%M")
         last_backup_formatted = stringToDate(last_backup)
         days_difference = compareDates(today_formatted, last_backup_formatted)
-        log_file.write('[' + str(today_formatted) + ' ' + str(current_time) + ']')
+        log_file.write('\r\n[' + str(today_formatted) + ' ' + str(current_time) + ']')
 
         # if today - last_backup >= backup_interval
         if (days_difference >= backup_interval or days_difference < 0):
@@ -112,21 +112,29 @@ def backup_folder(folder_path):
     toDirectoryName += "_" + str(today_formatted)
     toDirectory = store_backups_folder + "/" + toDirectoryName
 
-    output_message("\nCopying files from '%s' folder to '%s' folder..." % (fromDirectory, toDirectory))
+    fromDirectory = fromDirectory.replace("/", "\\")
+    toDirectory = toDirectory.replace("/", "\\")
 
-    change_permissions_recursive(toDirectory, permission_mode)
-    copy_tree(fromDirectory, toDirectory)
+    # add \\?\ before path to prevent 'File path too long' error
+    fromDirectoryShorten = "\\\\?\\" + fromDirectory
+    toDirectoryShorten = "\\\\?\\" + toDirectory
+
+    output_message("\nCopying files from '%s' folder to '%s' folder..." % (fromDirectoryShorten, toDirectoryShorten))
+
+    change_permissions_recursive(toDirectoryShorten, permission_mode)
+
+    copy_tree(fromDirectoryShorten, toDirectoryShorten)
 
     output_message('\nCopied successfully!')
 
-    checkOldFolders(toDirectory)
+    checkOldFolders(toDirectoryShorten)
 
 
 
 def checkOldFolders(folder_path):
     global old_folders
     old_folders_for_this_folder = []
-    folder_path_components = folder_path.rsplit('/', 1)
+    folder_path_components = folder_path.rsplit('\\', 1)
     folder_name = folder_path_components[1]
     folder_name_clean = folder_name.rsplit('_', 1)[0]
 
@@ -150,7 +158,7 @@ def removeOldFolders():
         if (len(old_folders_list) >= history_limit):
             old_folders_list.sort()
             for i in range(0, len(old_folders_list)-history_limit):
-                folder_to_remove = store_backups_folder + "/" + old_folders_list[i]
+                folder_to_remove = store_backups_folder + "\\" + old_folders_list[i]
                 change_permissions_recursive(folder_to_remove, permission_mode)
                 shutil.rmtree(folder_to_remove, onerror = on_rm_error)
                 output_message("\n! Folder '%s' has been removed !" % folder_to_remove)

@@ -67,3 +67,93 @@ Operation finished successfully!
 No backup is going to happen today :(. Next backup should take place after 2 day/s
 Operation finished successfully!
 
+
+[2016-09-17 11:59]
+No backup is going to happen today :(. Next backup should take place after 2 day/s
+Operation finished successfully!
+
+
+[2016-09-17 12:09]
+No backup is going to happen today :(. Next backup should take place after 2 day/s
+Operation finished successfully!
+
+
+[2016-09-17 21:12]
+No backup is going to happen today :(. Next backup should take place after 2 day/s
+Operation finished successfully!
+
+
+[2016-09-18 09:41]
+No backup is going to happen today :(. Next backup should take place after 1 day/s
+Operation finished successfully!
+
+
+[2016-09-18 21:16]
+No backup is going to happen today :(. Next backup should take place after 1 day/s
+Operation finished successfully!
+
+
+[2016-09-19 19:08]
+Its backup time!!!
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-19' folder...
+[2016-09-20 18:46]
+Its backup time!!!
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-20' folder...
+[2016-09-20 19:01]
+Its backup time!!!
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-20' folder...
+[2016-09-20 19:23]
+Its backup time!!!
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-20' folder...
+Copied successfully!
+[2016-09-20 21:39]
+Its backup time!!!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-20' folder...
+Copied successfully!
+! Folder 'D:/BackupToStuff\D-Programe-XAMPP-htdocs_2016-09-14' has been removed !
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-20' folder...
+[2016-09-20 22:52]
+Its backup time!!!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-20' folder...
+Copied successfully!
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-20' folder...
+[2016-09-20 22:54]
+Its backup time!!!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-20' folder...
+Copied successfully!
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-20' folder...
+[2016-09-20 22:54]
+Its backup time!!!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-20' folder...
+Copying files from '\\?\D:\Programe\XAMPP\htdocs' folder to '\\?\D:\BackupToStuff\D-Programe-XAMPP-htdocs_2016-09-20' folder...
+Copied successfully!
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-20' folder...
+Copying files from '\\?\D:\MyCode' folder to '\\?\D:\BackupToStuff\D-MyCode_2016-09-20' folder...
+[2016-09-20 22:56]
+Its backup time!!!
+Copying files from 'D:/Programe/XAMPP/htdocs' folder to 'D:/BackupToStuff/D-Programe-XAMPP-htdocs_2016-09-20' folder...
+Copying files from '\\?\D:\Programe\XAMPP\htdocs' folder to '\\?\D:\BackupToStuff\D-Programe-XAMPP-htdocs_2016-09-20' folder...
+Copied successfully!
+Copying files from 'D:/MyCode' folder to 'D:/BackupToStuff/D-MyCode_2016-09-20' folder...
+Copying files from '\\?\D:\MyCode' folder to '\\?\D:\BackupToStuff\D-MyCode_2016-09-20' folder...
+Copied successfully!
+Operation finished successfully!
+
+
+
+[2016-09-20 23:14]
+No backup is going to happen today :(. Next backup should take place after 5 day/s
+Operation finished successfully!
+
+
+
+[2016-09-20 23:14]
+No backup is going to happen today :(. Next backup should take place after 5 day/s
+Operation finished successfully!
+
+
+
+[2016-09-20 23:15]
+No backup is going to happen today :(. Next backup should take place after 5 day/s
+Operation finished successfully!
+
