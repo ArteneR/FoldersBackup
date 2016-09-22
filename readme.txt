@@ -1,3 +1,14 @@
+Short description:
+
+This small program is intended to periodically backup your files from a certain folder (that you specify).
+The program will be automatically launched at Windows startup (after 5 minutes) and can run either in the background or in the
+terminal window.
+You specify how many backups per folder to keep (eg. if you specify that you want to keep only 3 backup folders, when the 4th folder is being added, the oldest one of them will get deleted)
+
+Have fun and feel free to come up with improvements! :D
+A Gui would be a first option.
+
+
 Readme:
 
 In order to automate the backup process, you need to make a shortcut to 'runscript.vbs' and place it into the Startup folder (Start -> Search for: "shell:startup")
